@@ -1,2 +1,2 @@
 # JAVA-POO-ARRAYLIST
-ATIVIDADES BASICAS UTILIZANDO O ARRAYLIST E PROGRAMAÇÃO ORIENTADA A OBJETOS
+Atividades Utilizando o ArrayList e a Programação Orientada a Objetos
